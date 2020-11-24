@@ -34,11 +34,6 @@ Bitcoin sold out above the types of cryptocurrencies.
 
 ![image](resources/scatter.png)
 
-## Todo Checklist
-
-A helpful checklist to gauge how your README is coming on what I would like to finish:
-
-- [ ] ETL Pipeline
 
 ## Contributing
 
